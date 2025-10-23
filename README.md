@@ -1,7 +1,7 @@
 # Знакомство со стеком React, Next.js, TanStack Query, SQLite
 
 ## Установка 
-
+ 
 1) Открыть cmd, выполнить (cклонировать проект на диск С: в личную папку (на диске G: проект не развернется):
     ```
     git clone https://github.com/sergeyvo80/vki-next
